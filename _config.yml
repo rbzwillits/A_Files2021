@@ -70,8 +70,12 @@ collections:
     layout: 'a_files_item' # the layout for the pages to use
     metadata:
       source: 'nara.csv' # path to the metadata file within `_data`
+      google_drive_id: 
+        - 1wMMPx2O3Q-2kjLGYt1Sb91LEV8fiEq7JPaJ6sIjXo8g/Sheet1
     images:
-      source: 'raw_images/A5485880' # path to the directory of images within `_data`
+      source: 'raw_images/a_files' # path to the directory of images within `_data`
+      google_drive_id:
+        - 1pyiLkWMBEXCln5A62kLsMwRGhdtrZJ8W
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
